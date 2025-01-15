@@ -1,8 +1,8 @@
 const name = "Ashutosh"
 const repoCount = 5
 
-console.log(name + " " + repoCount)
-
+console.log(name + " " + repoCount) 
+//generally avoid above use this
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
 const gameName = new String("Cricket-badminton-vollyball")
